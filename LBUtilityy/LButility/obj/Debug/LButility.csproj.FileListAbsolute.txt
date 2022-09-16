@@ -1,0 +1,6 @@
+C:\Users\Jose Olivo\Documents\Visual Studio 2017\Projects\LBUtilityy\LButility\bin\Debug\LButility.dll
+C:\Users\Jose Olivo\Documents\Visual Studio 2017\Projects\LBUtilityy\LButility\bin\Debug\LButility.pdb
+C:\Users\Jose Olivo\Documents\Visual Studio 2017\Projects\LBUtilityy\LButility\obj\Debug\LButility.csproj.CoreCompileInputs.cache
+C:\Users\Jose Olivo\Documents\Visual Studio 2017\Projects\LBUtilityy\LButility\obj\Debug\LButility.dll
+C:\Users\Jose Olivo\Documents\Visual Studio 2017\Projects\LBUtilityy\LButility\obj\Debug\LButility.pdb
+C:\Users\Jose Olivo\Documents\Visual Studio 2017\Projects\LBUtilityy\LButility\obj\Debug\LButility.csprojAssemblyReference.cache
